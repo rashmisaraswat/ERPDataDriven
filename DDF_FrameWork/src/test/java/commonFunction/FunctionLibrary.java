@@ -35,5 +35,9 @@ public  static boolean adminLogin( String uname,String password)
      return false;
      }
 }
-
-}
+public void add()
+{
+int a=32,b=43,c;
+c=a+b;
+System.out.println(c);
+}}
